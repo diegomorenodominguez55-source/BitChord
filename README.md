@@ -1,7 +1,7 @@
 </div>
 
 <div align="center"><br/>
-<br/><img src="Logo.png" alt="Icono de Bitchord" width="200" />Bitchord
+<br/><img src="Logo.png" alt="Icono de Bitchord" width="200" />
 
 Un reproductor musical estético basado en YouTube Music
 

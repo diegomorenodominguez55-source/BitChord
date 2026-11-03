@@ -126,12 +126,6 @@ Descarga el APK firmado más reciente desde la página de [Releases](https://git
 
 BitChord es gratis y siempre lo será — si ya se ganó un lugar en tu rotación, puedes aportar aquí:
 
-<a href="https://ko-fi.com/kushagrasinghx" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/donate/kofi-singular-alt/cozy.svg" alt="Apóyame en Ko-fi" height="55"/></a>
-<a href="https://paypal.me/kuxhagrasingh" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/donate/paypal-plural/cozy.svg" alt="Apóyanos en PayPal" height="55"/></a>
-
-<br/>
-<img src="upi_support.jpg" alt="Apoyo por UPI" width="250" />
-
 <br/>
 
 Si deseas enviar una solicitud de contribución especial, consulta primero por correo a [diegomorenodominguez55@gmail.com](mailto:diegomorenodominguez55@gmail.com).

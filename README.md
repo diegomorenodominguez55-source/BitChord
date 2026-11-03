@@ -18,7 +18,7 @@
 
 <br/>
 
-[**Descargar**](#download) · [**Características**](#features) · [**Capturas**](#screenshots) · [**Contribuir**](#contributing) · [**Apoyo**](#support) · [**Aviso legal**](#disclaimer)
+[**Descargar**](#download) · [**Características**](#features) · [**Capturas**](#screenshots) · [**Apoyo**](#support) · [**Aviso legal**](#disclaimer)
 
 <br/>
 
@@ -122,24 +122,6 @@ Descarga el APK firmado más reciente desde la página de [Releases](https://git
 
 <div align="center">
 
-<h1><a id="contributing"></a>Contribuir</h1>
-
-¡Las contribuciones a BitChord son bienvenidas! Revisa nuestra [Guía de contribución](CONTRIBUTING.md) y nuestro [Código de conducta](CODE_OF_CONDUCT.md) antes de enviar un Pull Request.
-
-[**Guía de contribución**](CONTRIBUTING.md) · [**Código de conducta**](CODE_OF_CONDUCT.md) · [**Mantenedores**](MAINTAINERS.md) · [**Documentación adicional**](ADDITIONAL.md)
-
-### Gracias a todos los contribuidores ❤
-
-<a href="https://github.com/kushagrasinghx/BitChord/graphs/contributors">
-  <img src="https://raw.githubusercontent.com/kushagrasinghx/BitChord/contributors/contributors.svg" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 <h1><a id="support"></a>Apoyo</h1>
 
 BitChord es gratis y siempre lo será — si ya se ganó un lugar en tu rotación, puedes aportar aquí:
@@ -149,6 +131,10 @@ BitChord es gratis y siempre lo será — si ya se ganó un lugar en tu rotació
 
 <br/>
 <img src="upi_support.jpg" alt="Apoyo por UPI" width="250" />
+
+<br/>
+
+Si deseas enviar una solicitud de contribución especial, consulta primero por correo a [diegomorenodominguez55@gmail.com](mailto:diegomorenodominguez55@gmail.com).
 
 </div>
 

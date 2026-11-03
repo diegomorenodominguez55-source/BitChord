@@ -1,99 +1,178 @@
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="Logo.png" alt="Ícono de la app BitChord" width="200" />
+
+# BitChord
+
+### Cliente estético de YouTube Music
+
+<br/>
+
+[![Última versión](https://img.shields.io/github/v/release/kushagrasinghx/BitChord?style=for-the-badge&labelColor=0d1117)](https://github.com/kushagrasinghx/BitChord/releases)
+[![Licencia](https://img.shields.io/github/license/kushagrasinghx/BitChord?style=for-the-badge&labelColor=0d1117)](https://github.com/kushagrasinghx/BitChord/blob/main/LICENSE)
+[![Descargas](https://img.shields.io/github/downloads/kushagrasinghx/BitChord/total?style=for-the-badge&labelColor=0d1117)](https://github.com/kushagrasinghx/BitChord/releases)
+[![Escuchando ahora](https://api.bitchord.kushagrasingh.in/api/stats/live/badge.svg)](https://api.bitchord.kushagrasingh.in/api/stats/live)
+
+<br/>
+
+[**Descargar**](#download) · [**Características**](#features) · [**Capturas**](#screenshots) · [**Contribuir**](#contributing) · [**Apoyo**](#support) · [**Aviso legal**](#disclaimer)
+
+<br/>
+
+<a href="https://fmhy.net/mobile#youtube-music" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/available/fmhy/cozy.svg" alt="Destacado en FMHY" height="55"/></a>
+<a href="https://trendshift.io/repositories/177639?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-177639" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/177639" alt="kushagrasinghx%2FBitChord | Trendshift" width="250" height="55"/></a>
+
 </div>
 
-<div align="center"><br/>
-<br/><img src="Logo.png" alt="Icono de Bitchord" width="200" />
-
-Un reproductor musical estético basado en YouTube Music
-
-</div>« [!IMPORTANT]
-Bitchord es un proyecto independiente y no está afiliado, respaldado ni relacionado oficialmente con YouTube o Google. Utilízalo bajo tu propia responsabilidad.»
+> [!IMPORTANT]
+> BitChord no está afiliado, respaldado ni conectado de ninguna manera con YouTube ni con Google. Úsalo bajo tu propia responsabilidad.
 
 ---
 
-<div /><img src="melodix-trio.png" alt="Presentación de Bitchord" width="100%" /><h1><a id="caracteristicas"></a>Características</h1><table>
+<div align="center">
+
+<img src="melodix-trio.png" alt="Banner de BitChord" width="100%" />
+
+<h1><a id="features"></a>Características</h1>
+
+<table>
   <tr>
-    <td width="50%" valign="top">Reproducción
+    <td width="50%" valign="top">
 
-- Buscar, explorar y reproducir contenido disponible en YouTube Music.
-- Audio Hi-Res sin pérdida — FLAC/ALAC desde una fuente de módulos configurada, con YouTube Music como alternativa.
-- Reproducción sin interrupciones con fundido cruzado ajustable de 0 a 12 segundos.
-- Automix [Beta] — transiciones al estilo DJ con sincronización de ritmos y ajuste de tempo.
-- Descargas sin conexión — guarda canciones con sus metadatos.
-- Integración con la biblioteca musical local.
-- Reproducción en segundo plano mediante una sesión multimedia del sistema.
-- Animaciones de letras al estilo Apple — créditos a "binimum" (https://github.com/binimum/am-lyrics).
+#### Reproducción
+- **Busca, explora y reproduce** cualquier contenido disponible en YouTube Music.
+- **Audio Hi-Res sin pérdida** — FLAC/ALAC desde una fuente de módulo configurada, con YouTube Music como respaldo.
+- **Reproducción sin pausas con crossfade real**, ajustable de 0 a 12 s.
+- **Automix [Beta]** — transiciones estilo DJ con beat-matching y ajuste de tempo.
+- **Descargas sin conexión** — guarda canciones con metadatos incrustados.
+- **Integración con la biblioteca de música local**.
+- **Reproducción en segundo plano** mediante una sesión multimedia en primer plano.
+- **Animación de letras estilo Apple** — créditos a [binimum](https://github.com/binimum/am-lyrics).
 
-Conectividad y cuentas
+#### Conectividad y cuentas
+- **Inicia sesión con tu cuenta de Google** para obtener contenido personalizado.
+- **Integración con Spotify** — conecta tu cuenta para reproducir tus listas y tus Canciones que te gustan.
+- **Discord Rich Presence** — inicio de sesión dentro de la app, con canción, artista, álbum y progreso en vivo.
+- **Scrobbling** a Last.fm y ListenBrainz.
+- **Fuentes modulares** — agrega, edita, prueba y verifica el estado de las fuentes de módulos.
 
-- Inicio de sesión con Google para obtener contenido personalizado.
-
-- Integración con Spotify — conecta tu cuenta para reproducir tus listas y canciones favoritas.
-
-- Discord Rich Presence — inicio de sesión desde la aplicación, información de canciones, artistas, álbumes y progreso.
-
-- Scrobbling compatible con Last.fm y ListenBrainz.
-
-- Fuentes configurables — agrega, edita, prueba y verifica fuentes mediante módulos.
-  
     </td>
-  <td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-Experiencia
+#### Experiencia
+- **Canvas animado del álbum** — arte en movimiento en la pantalla de reproducción.
+- **Letras sincronizadas por palabra** — resaltado a nivel de palabra/sílaba desde múltiples fuentes.
+- **Proveedores de letras** — créditos a [lrc.red](https://lrc.red), [BiniLyrics](https://github.com/binimum), [BetterLyrics](https://github.com/better-lyrics/better-lyrics), [PaxSenix](https://lyrics.paxsenix.org), [LyricsPlus](https://github.com/ibratabian17/YouLyPlus), [SimpMusic](https://github.com/maxrave-dev/SimpMusic), [Unison](https://unison.boidu.dev), [Megalobiz](https://www.megalobiz.com), [KuGou](https://www.kugou.com), [LRCLIB](https://lrclib.net), [Musixmatch](https://www.musixmatch.com) y [Genius](https://genius.com).
+- **Tema dinámico basado en la portada** — paleta Material extraída del arte del álbum.
+- **Interfaz de vidrio esmerilado** — barras translúcidas estilo Telegram con Haze y tema Material 3.
 
-- Portadas de álbumes animadas — ilustraciones con movimiento en la pantalla de reproducción.
-- Letras sincronizadas — resaltado de palabras y sílabas mediante distintas fuentes.
-- Proveedores de letras — créditos a "lrc.red" (https://lrc.red), "BiniLyrics" (https://github.com/binimum), "BetterLyrics" (https://github.com/better-lyrics/better-lyrics), "PaxSenix" (https://lyrics.paxsenix.org), "LyricsPlus" (https://github.com/ibratabian17/YouLyPlus), "SimpMusic" (https://github.com/maxrave-dev/SimpMusic), "Unison" (https://unison.boidu.dev), "Megalobiz" (https://www.megalobiz.com), "KuGou" (https://www.kugou.com), "LRCLIB" (https://lrclib.net), "Musixmatch" (https://www.musixmatch.com) y "Genius" (https://genius.com).
-- Temas dinámicos — colores extraídos de las portadas de los álbumes.
-- Interfaz de cristal esmerilado — barras translúcidas al estilo Telegram mediante Haze y temas Material 3.
+#### Controles y ajustes
+- **Calidad de audio por red** — límites de calidad independientes para Wi-Fi y datos móviles.
+- **Control de velocidad de reproducción** (0.5×–2.0×) y **omitir silencios**.
+- **Temporizador de apagado** — valores predefinidos o "detener al terminar esta canción".
+- **Integración con el ecualizador del sistema**.
+- **Salida USB exclusiva bit-perfect** — envía las pistas sin pérdida a un DAC USB sin alteraciones, con la frecuencia y profundidad de bits propias de cada pista. Gracias a [Mornye](https://github.com/mornyeapp/Mornye) por la referencia.
+- **Estadísticas para curiosos** — códec, profundidad de bits, frecuencia de muestreo y más en la pantalla de reproducción.
 
-Controles y ajustes
-
-- Calidad de audio por conexión — límites de calidad independientes para Wi-Fi y datos móviles.
-
-- Control de velocidad (0.5×–2.0×) y función para omitir silencios.
-
-- Temporizador de apagado — tiempos predeterminados o detener después de la canción actual.
-
-- Integración con el ecualizador del sistema.
-
-- Salida USB exclusiva Bit-Perfect — envía pistas sin pérdida a un DAC USB sin modificar su frecuencia de muestreo ni profundidad de bits. Gracias a "Mornye" (https://github.com/mornyeapp/Mornye) por la referencia.
-
-- Estadísticas avanzadas — códec, profundidad de bits, frecuencia de muestreo y más información en la pantalla de reproducción.
-  
     </td>
-</tr>
+  </tr>
+</table>
 
-</table></div>---
+</div>
 
-<div align="center"><h1><a id="experiencia-visual"></a>Experiencia visual</h1>Descubre la interfaz de Bitchord y sus principales apartados.
+---
 
-Reproductor
+<div align="center">
 
-<img src="melodix-frente-reproductor-espacio.png" alt="Interfaz del reproductor de Bitchord" width="100%" />Letras
+<h1><a id="screenshots"></a>Capturas</h1>
 
-<img src="melodix-frente-letras-espacio.png" alt="Apartado de letras de Bitchord" width="100%" />Explorar
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="melodix-frente-reproductor-espacio.png" alt="Reproductor" width="100%" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="melodix-frente-letras-espacio.png" alt="Letras" width="100%" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="melodix-frente-explorar-espacio.png" alt="Explorar" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img src="melodix-frente-explorar-espacio.png" alt="Apartado de explorar de Bitchord" width="100%" /></div>---
+</div>
 
-<div align="center"><h1><a id="descargar"></a>Descargar</h1><a href="https://github.com/kushagrasinghx/BitChord/releases" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/supported/android/cozy.svg" alt="Descargar para Android" height="55"/></a>
+---
 
-Descarga la versión APK más reciente desde el apartado de "Versiones" (https://github.com/kushagrasinghx/BitChord/releases).
+<div align="center">
 
-Para instalar el APK, es posible que debas habilitar el permiso Instalar aplicaciones desconocidas para la aplicación desde la que realizas la descarga.
+<h1><a id="download"></a>Descargar</h1>
 
-</div>---
+<a href="https://github.com/kushagrasinghx/BitChord/releases" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/supported/android/cozy.svg" alt="Descargar para Android" height="55"/></a>
 
-<div align="center"><h1><a id="aviso-legal"></a>Aviso legal y condiciones</h1>Bitchord es un reproductor de audio y cliente independiente. No está asociado oficialmente con Google LLC, YouTube Music, Deezer, Telegram ni ninguna de sus empresas matrices.
+Descarga el APK firmado más reciente desde la página de [Releases](https://github.com/kushagrasinghx/BitChord/releases). Para instalarlo manualmente debes habilitar "Instalar apps desconocidas" en la aplicación con la que lo descargues.
 
-* Sin alojamiento de contenido multimedia: Bitchord no aloja, sube ni almacena archivos de música protegidos por derechos de autor. Funciona como una interfaz para explorar el almacenamiento local del dispositivo o reproducir contenido mediante API públicas o autenticadas por el usuario.
-* Uso legítimo y API: Este software está destinado a fines personales, educativos y de investigación. El usuario es responsable de asegurarse de que su utilización cumpla con las leyes locales de derechos de autor y las condiciones de servicio de las plataformas correspondientes.
-* Sin garantía de bloqueo de anuncios: Bitchord busca ofrecer una experiencia de reproducción limpia, pero no garantiza la eliminación permanente de anuncios ni modificaciones de las condiciones de plataformas externas.
-* Copyleft: Este software se distribuye bajo la licencia GPLv3. La licencia permite modificar, vender y redistribuir el software, siempre que se respeten sus condiciones, incluida la disponibilidad del código fuente correspondiente bajo la misma licencia.
 
-</div>---
+</div>
 
-<div align="center"><h1><a id="licencia"></a>Licencia</h1>Este proyecto está distribuido bajo la licencia GNU General Public License v3.0 (GPLv3).
+---
 
-Consulta el archivo "LICENSE" (LICENSE) para conocer todos los detalles.
+<div align="center">
+
+<h1><a id="contributing"></a>Contribuir</h1>
+
+¡Las contribuciones a BitChord son bienvenidas! Revisa nuestra [Guía de contribución](CONTRIBUTING.md) y nuestro [Código de conducta](CODE_OF_CONDUCT.md) antes de enviar un Pull Request.
+
+[**Guía de contribución**](CONTRIBUTING.md) · [**Código de conducta**](CODE_OF_CONDUCT.md) · [**Mantenedores**](MAINTAINERS.md) · [**Documentación adicional**](ADDITIONAL.md)
+
+### Gracias a todos los contribuidores ❤
+
+<a href="https://github.com/kushagrasinghx/BitChord/graphs/contributors">
+  <img src="https://raw.githubusercontent.com/kushagrasinghx/BitChord/contributors/contributors.svg" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<h1><a id="support"></a>Apoyo</h1>
+
+BitChord es gratis y siempre lo será — si ya se ganó un lugar en tu rotación, puedes aportar aquí:
+
+<a href="https://ko-fi.com/kushagrasinghx" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/donate/kofi-singular-alt/cozy.svg" alt="Apóyame en Ko-fi" height="55"/></a>
+<a href="https://paypal.me/kuxhagrasingh" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/donate/paypal-plural/cozy.svg" alt="Apóyanos en PayPal" height="55"/></a>
+
+<br/>
+<img src="upi_support.jpg" alt="Apoyo por UPI" width="250" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h1><a id="disclaimer"></a>Aviso legal</h1>
+
+BitChord es un reproductor de audio y cliente independiente, de terceros e impulsado por la comunidad. **No** está asociado con Google LLC, YouTube Music, Deezer, Telegram ni con ninguna de sus empresas matriz.
+
+* **Sin alojamiento de medios:** BitChord no aloja, sube ni almacena archivos de música protegidos por derechos de autor. Funciona estrictamente como una interfaz para explorar el almacenamiento local del dispositivo o transmitir contenido directamente desde APIs públicas, de acceso público o autenticadas por el usuario.
+* **Uso justo y uso de APIs:** Este software se crea únicamente con fines de investigación personal, educativos y de uso justo. El usuario es totalmente responsable de asegurarse de que su uso cumpla con las leyes de derechos de autor de su localidad y con los Términos de Servicio de YouTube.
+* **Sin garantía de bloqueo de anuncios:** Aunque BitChord busca ofrecer un entorno de escucha limpio, no garantiza evasiones o modificaciones permanentes de las condiciones comerciales de plataformas de terceros.
+* **Copyleft:** BitChord es software libre bajo la GPLv3. La licencia no permite que nadie prohíba a otros vender o redistribuir copias, pero toda distribución debe incluir el Código Fuente Correspondiente bajo la misma licencia.
+
+</div>
+
+---
+
+<div align="center">
+
+<h1><a id="license"></a>Licencia</h1>
+
+Este proyecto está licenciado bajo la **Licencia Pública General de GNU v3.0 (GPLv3)**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 </div>

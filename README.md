@@ -5,7 +5,7 @@
 
 Un reproductor musical estético basado en YouTube Music
 
-</div>«[!IMPORTANT]
+</div>« [!IMPORTANT]
 Bitchord es un proyecto independiente y no está afiliado, respaldado ni relacionado oficialmente con YouTube o Google. Utilízalo bajo tu propia responsabilidad.»
 
 ---

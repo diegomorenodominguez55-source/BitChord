@@ -5,10 +5,6 @@
 
 Un reproductor musical estético basado en YouTube Music
 
-<br/>""Última versión" (https://img.shields.io/github/v/release/kushagrasinghx/BitChord?style=for-the-badge&labelColor=0d1117)" (https://github.com/kushagrasinghx/BitChord/releases)
-""Licencia" (https://img.shields.io/github/license/kushagrasinghx/BitChord?style=for-the-badge&labelColor=0d1117)" (LICENSE)
-""Descargas" (https://img.shields.io/github/downloads/kushagrasinghx/BitChord/total?style=for-the-badge&labelColor=0d1117)" (https://github.com/kushagrasinghx/BitChord/releases)
-
 <br/>"Descargar" (#descargar) · "Características" (#caracteristicas) · "Experiencia visual" (#experiencia-visual) · "Aviso legal" (#aviso-legal)
 
 </div>«[!IMPORTANT]

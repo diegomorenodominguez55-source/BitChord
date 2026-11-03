@@ -16,7 +16,7 @@ Bitchord es un proyecto independiente y no está afiliado, respaldado ni relacio
 
 ---
 
-<div align="center"><img src="Banner.png" alt="Banner de Bitchord" width="100%" /><img src="melodix-trio.png" alt="Presentación de Bitchord" width="100%" /><h1><a id="caracteristicas"></a>Características</h1><table>
+<div /><img src="melodix-trio.png" alt="Presentación de Bitchord" width="100%" /><h1><a id="caracteristicas"></a>Características</h1><table>
   <tr>
     <td width="50%" valign="top">Reproducción
 
